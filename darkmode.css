@@ -1,0 +1,17 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    background-image: url("ramadan");
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  span img {
+      width: 300px;
+      height: 300px;
+  }
+  #cadre
